@@ -1,0 +1,21 @@
+{
+  "name": "jenkins_playwright_example",
+  "version": "1.0.0",
+  "description": "an example project in order to understand how to run playwright tests in jenkins",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konvenit/jenkins_playwright_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konvenit/jenkins_playwright_example/issues"
+  },
+  "homepage": "https://github.com/konvenit/jenkins_playwright_example#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.0"
+  }
+}
